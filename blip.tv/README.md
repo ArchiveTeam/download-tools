@@ -1,6 +1,6 @@
 blip.tv download script
 ========================
-This script downloads or displays to url to the original version of a video from blip.tv in the Wayback Machine, saved by ArchiveTeam.
+This script downloads or displays the url to the original version of a video from blip.tv in the Wayback Machine, saved by ArchiveTeam.
 
 How to use
 --------------
